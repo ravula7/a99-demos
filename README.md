@@ -7,7 +7,7 @@ To save it, Make sure to click the green button at the bottom that says "Propose
 See illustration below.
 
 | Team Name | Demo video link | Project repo | 
-|:--- |:--- |:--- |
+|Jabbah|https://www.youtube.com/watch?v=qW66HzhBcwA&ab_channel=PravalikaR |https://github.com/comp426-2022-spring/a99-jabbah |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 
 ## Propose changes and create pull request
